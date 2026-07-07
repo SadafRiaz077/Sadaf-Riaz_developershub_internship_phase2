@@ -120,3 +120,5 @@ predictions = pipeline.predict(new_customer_dataframe)  # raw data, no preproces
 - Address class imbalance with `class_weight='balanced'` or SMOTE to improve recall further
 - Add feature importance analysis (particularly for Random Forest) to identify top churn drivers
 - Deploy the exported pipeline behind a Streamlit form for live churn prediction
+## Colab Notebook link:
+https://colab.research.google.com/drive/1rez0_XWfJwmy00EtVdhUSMAdDHuoGOzz?usp=sharing
