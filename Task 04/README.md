@@ -183,3 +183,4 @@ streamlit run app.py
 - Retrieval-Augmented Generation (RAG) pipeline design
 - LLM integration and deployment (Groq/Llama 3 + Streamlit)
 - Debugging Python ML dependency/environment conflicts
+## Colab Notebook link:https://colab.research.google.com/drive/1hSmegKiDmGsvvPgqzTA5q270TnjLr6sJ?usp=sharing
