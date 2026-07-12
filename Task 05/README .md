@@ -185,5 +185,5 @@ replace the generation cell in Section 3 with
 
 Prompt engineering · LLM-based text classification · Zero-shot & few-shot
 learning · Multi-class prediction and ranking · Evaluation methodology
-## colab Notebook link:
+## Colab Notebook link:
 https://colab.research.google.com/drive/1Crqfa4_Tkg4aIDj41dwbLZJ4EsY0p5Qv?usp=sharing
