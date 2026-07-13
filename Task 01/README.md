@@ -63,3 +63,5 @@ Loaded directly from the Hugging Face Hub using the namespaced repo ID `fancyzhx
 ## Skills Gained
 
 NLP using Transformers • Transfer Learning & Fine-Tuning • Evaluation Metrics for Text Classification • Lightweight Model Deployment (Gradio)
+## Colab Notebook
+https://colab.research.google.com/drive/1vYSjQ1ryrBjQ6969_JSbEjKj9FSVNLwa?usp=sharing
